@@ -1,8 +1,11 @@
 <h4>Alx Sorting Algorithms Tutorial</h4>
 <div>
-* bubble sort
-* selecting sort
-* merge sort
-* quick sort <br>
+<list>
+bubble sort
+selecting sort
+merge sort
+quick sort
+</list>
+<br>
 <i>and many more...</i>
 </div>
